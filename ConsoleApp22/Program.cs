@@ -12,6 +12,6 @@ namespace ConsoleApp22
         {
 
             Console.WriteLine("demo");
-        }  
+        }   
     }
 }
